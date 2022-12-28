@@ -9,7 +9,7 @@ namespace HolmHub
 
         private void Form1_Load(object sender, EventArgs e)
         {
-//            this.FormBorderStyle = FormBorderStyle.None;
+//            this.FormBorderStyle = FormBorderStyle.None;   
 //            this.TransparencyKey = Color.Gray;
             this.Text = "HolmHub";
             this.BackColor = Color.FromArgb(34, 38, 41);
