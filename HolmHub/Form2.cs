@@ -25,5 +25,10 @@ namespace HolmHub
             this.BackColor = Color.FromArgb(50, 71, 87);
             this.Size = new Size(250, 300);
         }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            this.Hide();
+        }
     }
 }
